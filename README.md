@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet est une implémentation en C d'un réseau de commutation avec des stations et des switches. Il permet de simuler l'envoi de trames Ethernet entre différentes stations à travers un réseau de switches en local.
+Ce projet est une implémentation en C d'un réseau de commutation avec des stations et des switches fait en première année d'études. Il permet de simuler l'envoi de trames Ethernet entre différentes stations à travers un réseau de switches en local.
 
 ### Fonctionnalités principales :
 - Simulation de l'envoi de trames Ethernet entre des stations via des switches.
