@@ -4,6 +4,8 @@
 
 Ce projet est une implémentation en C d'un réseau de commutation avec des stations et des switches fait en première année d'études. Il permet de simuler l'envoi de trames Ethernet entre différentes stations à travers un réseau de switches en local.
 
+<img src="./ImageTrame.png" alt="Image envoie de trame" width="100%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+
 ### Fonctionnalités principales :
 - Simulation de l'envoi de trames Ethernet entre des stations via des switches.
 - Gestion des adresses IP et MAC pour chaque station et switch.
